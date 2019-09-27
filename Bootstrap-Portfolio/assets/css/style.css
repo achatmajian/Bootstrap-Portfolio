@@ -1,0 +1,77 @@
+* {
+    box-sizing:border-box;
+}
+
+/* Navigation */
+
+html {
+    height: 100%;
+  }
+
+#arekbike {
+    float: left;
+    position: absolute;
+}
+
+#text {
+    float: right;
+    position: relative;
+    margin-left: 2%;
+    width: 650px;
+}
+
+.jumbotron {
+    display: inline-block;
+    word-break: break-word;
+    width: 960px;
+    margin-left: 217px;
+    margin-top: 40px;
+    padding-top: 2rem;
+}
+.navbar-nav {
+    margin-left: 51%;
+}
+
+.navbar-brand {
+    margin-left: 17%;
+    background-color:#4aaaa5;
+    padding: 10px;
+    height: 100%;
+}
+form {
+    width: 900px;
+    margin-left: 0;
+    margin-top: 40px;
+    align-content: left;
+    
+}
+
+.btn-success {
+    background-color: #4aaaa5;
+}
+
+footer {
+    background-color: #666666;
+    color: white;
+    height: 90px;
+    text-align: center;
+    border-top: 5px solid #4aaaa5;
+    padding-top: 30px;
+}
+
+/* Text & Image */
+
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color:#4aaaa5;
+}
+
+p {
+    font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+body {
+    background-image: url("assets/images/beanstalk-dark.png");
+    background-color: #cccccc;
+}
+
